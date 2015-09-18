@@ -1,6 +1,2 @@
-vimStuff
+dotFiles
 ========
-
-Place in home directory.
-
-Vim configuration files
